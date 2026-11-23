@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Da'at Spark",
+      "hasCanvas": false,
+      "bodyTextLen": 2033,
+      "bodyTextHash": "b73e410702097161ffdf77d29f0aad26d05e1298bde582ee96a755b6616c3979",
+      "bodyTextPrefix": "MÖBII³US · 1-IN-8 Da'at Spark A spoken line is fractionated acro",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Da'at Spark",
+      "hasCanvas": false,
+      "bodyTextLen": 2033,
+      "bodyTextHash": "b73e410702097161ffdf77d29f0aad26d05e1298bde582ee96a755b6616c3979",
+      "bodyTextPrefix": "MÖBII³US · 1-IN-8 Da'at Spark A spoken line is fractionated acro",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
